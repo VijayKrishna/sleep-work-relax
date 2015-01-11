@@ -9,3 +9,124 @@
 
 # RStudio files
 .Rproj.user/
+
+#Plots
+plots/
+
+# OS
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# compiled
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# package
+*.apk
+*.iso
+*.ipa
+*.jar
+*.war
+*.ear
+
+# xcode
+*.swp
+*~.nib
+build/
+*.pbxuser
+*.perspective
+*.perspectivev3
+xcuserdata
+
+# eclipse
+.classpath
+.project
+.settings
+
+#android
+bin
+gen
+*.apk
+*.ap_
+*.dex
+
+# logs
+*.log
+
+# RoR
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+
+# .Net & Visual Studio
+_ReSharper.*
+*.resharper
+*.resharper.user
+*.csproj.user
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+# Usually these files are written by a python script from a template
+# before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+*.pot
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*

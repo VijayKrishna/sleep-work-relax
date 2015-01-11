@@ -1,0 +1,11 @@
+1. Are people Nocournal?
+2. How does the overall sentiment of an image varry with its age?
+3. 
+                                                                          
+
+data <- read.csv(csv, header=TRUE)
+
+Observations:
+1. newer posts have greater votes. plot unixtime vs. score
+2. people are posting in greater numbers in the afternoon/work-hours (?)
+0 = Sunday, 1 = Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = Saturday
